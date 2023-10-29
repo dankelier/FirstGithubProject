@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+   <title>Document</title>
+   <style>
+   h1 {
+    background-color:Red;
+    color:Azure;
+    font-size: 25px;
+   }
+   .Paragraph {
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+   }
+   #end {
+    font-size: 60px;
+    color: blueviolet;
+    text-align: center;
+    background-color: aliceblue !important;
+   }
+
+   </style>
+</head>
+<body>
+    <h1>Quote Number 1</h1>
+    <p class="Paragraph">You must be the change you wish to see in the world.</p>
+    <h1>Quote Number 2</h1>
+    <p class="Paragraph">Spread love everywhere you go.</p>
+    <h1>Quote Number 3</h1>
+    <p class="Paragraph">The only thing we have to fear is fear itself.</p>
+    <h1>Quote Number 4</h1>
+    <p class="Paragraph">Darkness cannot drive out darkness: only light can do that. </p>
+    <h1 id="end">The End</h1>
+</body>
+</html>
